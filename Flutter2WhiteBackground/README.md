@@ -8,7 +8,7 @@ I've recorded an evidence [video](https://raw.githubusercontent.com/marcellocama
 
 <details>
 <summary>flutter doctor -v</summary>
-```
+<br>
 [✓] Flutter (Channel stable, 2.0.5, on macOS 11.2.3 20D91 darwin-x64, locale pt-BR)
     • Flutter version 2.0.5 at /Users/cello/development/flutter
     • Framework revision adc687823a (35 hours ago), 2021-04-16 09:40:20 -0700
@@ -43,5 +43,4 @@ I've recorded an evidence [video](https://raw.githubusercontent.com/marcellocama
     • Chrome (web)                • chrome        • web-javascript • Google Chrome 90.0.4430.72
 
 • No issues found!
-```
 </details>
