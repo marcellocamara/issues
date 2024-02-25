@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754250011818",
+    "project_id": "test-project-analytics-android",
+    "storage_bucket": "test-project-analytics-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754250011818:android:0abb239ef52be88babacd3",
+        "android_client_info": {
+          "package_name": "marcello.dev.flutter3imperativeapply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpp_CZSLriq_zkbJVSV9k-xL9lM9cDdMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
